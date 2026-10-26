@@ -12,10 +12,10 @@ Le projet compare **21 configurations expérimentales**, couvrant les modèles s
 
 ---
 
-## 👥 Auteurs & Encadrement
+## 👤 Auteur & Encadrement
 
-* **Étudiants :** Amine Bouaouda & Mohammed El Amrani
-* **Filière :** Master Big Data & IoT — Module *Transformers & LLMs*
+* **Auteur :** Amine Bouaouda
+* **Formation :** Master Big Data & IoT — Module *Transformers & LLMs*
 * **Encadrant :** Prof. Yassir Matrane
 * **Date :** Octobre 2026
 
