@@ -1,0 +1,45 @@
+# Virtual Environments
+.venv/
+.venv-gpu/
+env/
+venv/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE & Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS Generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Scratch text dumps
+notebook_analysis.txt
+pdf_text_extracted.txt
+
+# Large model binaries / HF cache (if downloaded locally)
+*.safetensors
+*.bin
+*.pt
+*.pth
+!results/*.png
