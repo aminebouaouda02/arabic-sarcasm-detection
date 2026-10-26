@@ -99,9 +99,6 @@ Grâce au mécanisme d'attention sur les représentations de tokens gelées (Par
 │   ├── preprocess/text.py                  # Pipeline de nettoyage et normalisation
 │   ├── models/metrics.py                   # Calcul F1, PR-AUC, Macro-F1 et seuils
 │   └── train/reproducibility.py            # Fixation des graines aléatoires (seed 42)
-├── Compte_Rendu_TP2_Bouaouda.pdf           # Rapport écrit officiel complet (PDF A4)
-├── Presentation_TP2_Sarcasme_Bouaouda.pdf  # Diaporama de soutenance (Format 16:9 Widescreen)
-├── Presentation_TP2_Sarcasme_Bouaouda.pptx # Présentation PowerPoint éditable
 ├── requirements.txt                        # Dépendances logicielles
 └── README.md                               # Documentation du projet
 ```

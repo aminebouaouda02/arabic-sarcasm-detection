@@ -43,3 +43,15 @@ pdf_text_extracted.txt
 *.pt
 *.pth
 !results/*.png
+
+# Documents & Presentations (gardés en local, ignorés sur GitHub)
+*.pdf
+*.pptx
+*.ppt
+*.docx
+
+
+
+#comptes renud the insctructions pdf and the presenttaion should be ignored form github push
+*.pdf
+*.pptx
